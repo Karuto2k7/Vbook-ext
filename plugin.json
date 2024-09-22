@@ -140,10 +140,10 @@
       {
         "name": "Vcomycs.com",
         "author": "Karuto",
-        "path": "https://github.com/Karuto2k7/Vbook-ext/tree/main/vcomycs",
+        "path": "https://raw.githubusercontent.com/Karuto2k7/Vbook-ext/refs/heads/main/vcomycs/vcomycs.zip",
         "version": 8,
         "source": "https://vivicomi",
-        "icon": "https://raw.githubusercontent.com/Karutovn/vbook-ext/master/vcomycs/icon.png",
+        "icon": "https://raw.githubusercontent.com/Karuto2k7/Vbook-ext/refs/heads/main/vcomycs/icon.png",
         "description": "Đọc truyện trên trang https://vivicomi"
       },
     {
