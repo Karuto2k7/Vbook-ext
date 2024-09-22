@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "vcomycs",
+    "author": "Karuto",
+    "version": 1,
+    "source": "https://vivicomi.online/",
+    "regexp": "(www.)?vivicomi.online/truyen-tranh/[^/].+/?$",
+    "description": "Đọc truyện tại https://vivicomi.online/",
+    "local": "vi-VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
