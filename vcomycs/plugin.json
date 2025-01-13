@@ -2,7 +2,7 @@
   "metadata": {
     "name": "vcomycs",
     "author": "Karuto",
-    "version": 1,
+    "version": 9,
     "source": "https://vivicomi.club/",
     "regexp": "(www.)?vivicomi.club/truyen-tranh/[^/].+/?$",
     "description": "Đọc truyện tại https://vivicomi.club/",
