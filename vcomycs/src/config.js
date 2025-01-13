@@ -1,1 +1,1 @@
-const BASE_URL = 'https://vivicomi.online/';
+const BASE_URL 'https://vivicomi.club/';
